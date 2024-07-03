@@ -1,0 +1,39 @@
+[
+    {
+        "emp_name" : "mahesh",
+        "emp_id" : "89" ,
+        "emp_desi" : "tester1",
+        "emp_gender" : "male",
+        "emp_edu" : "B E",
+        "emp_companies":{
+            "company1":"hb",
+            "company2":"hcl"
+        },
+        "emp_skills":["html","css","java","javascript"]
+
+    },
+    {
+        "emp_name" : "ramesh",
+        "emp_id" : "67" ,
+        "emp_desi" : "tester2",
+        "emp_gender" : "male",
+        "emp_edu" : "Bsc",
+        "emp_companies":{
+            "company1":"lg",
+            "company2":"mahindre"
+        },
+        "emp_skills":["sql","react","java","spring"]
+    },
+    {
+        "emp_name" : "somi",
+        "emp_id" : "77",
+        "emp_desi" : "tester3",
+        "emp_gender" : "female",
+        "emp_edu" : "B E",
+        "emp_companies":{
+            "company1":"hng",
+            "company2":"hml"
+        },
+        "emp_skills":["corejava","nano","web","servlet"]
+    }
+]
